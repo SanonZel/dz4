@@ -1,0 +1,15 @@
+
+.swapper {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 200px;
+}
+#curs {
+    font-size: large;
+}
+input {
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
